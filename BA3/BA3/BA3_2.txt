@@ -1,2 +1,0 @@
-Name when max ChildCount: Kod_1,5-3_Liet 
-Name when min ChildCount: Ait_1,5-7_Liet

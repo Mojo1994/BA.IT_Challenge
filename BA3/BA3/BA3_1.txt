@@ -1,2 +1,0 @@
-Min ChildCount: 0 
-Max ChildCount: 144
